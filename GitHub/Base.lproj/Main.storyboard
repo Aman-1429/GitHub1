@@ -30,7 +30,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="justified" lineBreakMode="tailTruncation" numberOfLines="22" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gRe-Ge-kRX">
                                 <rect key="frame" x="59" y="344" width="302" height="427"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <mutableString key="text">Yoga (/ˈjoʊɡə/ (About this soundlisten); Sanskrit: योग, lit. 'yoke' or 'union' pronounced [joːɡɐ]) is a group of physical, mental, and spiritual practices or disciplines that originated in ancient India, aimed at controlling ('yoking') and stilling the mind, and recognizing the detached 'witness-consciousness' as untouched by the activities of the mind (Citta) and mundane suffering (Duḥkha). There are a broad variety of the schools of yoga, practices, and goals in Hinduism, Buddhism, and Jainism,and traditional forms and modern methods of yoga are practiced worldwide.</mutableString>
+                                <string key="text">Yoga (/ˈjoʊɡə/ (About this soundlisten); Sanskrit: योग, lit. 'yoke' or 'union' pronounced [joːɡɐ]) is a group of physical, mental, and spiritual practices or disciplines that originated in ancient India, aimed at controlling ('yoking') and stilling the mind, and recognizing the detached 'witness-consciousness' as untouched by the activities of the mind (Citta) and mundane suffering (Duḥkha). There are a broad variety of the schools of yoga, practices, and goals in Hinduism, Buddhism, and Jainism,and traditional forms and modern methods of yoga are practiced worldwide.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -41,7 +41,7 @@
                                 <color key="backgroundColor" systemColor="systemYellowColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="CLICK TO START">
-                                    <color key="baseForegroundColor" systemColor="systemPurpleColor"/>
+                                    <color key="baseForegroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </buttonConfiguration>
                             </button>
                         </subviews>
@@ -56,9 +56,6 @@
     </scenes>
     <resources>
         <image name="20728198_1960624594151114_2838201515326089162_n" width="858" height="572"/>
-        <systemColor name="systemPurpleColor">
-            <color red="0.68627450980392157" green="0.32156862745098042" blue="0.87058823529411766" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-        </systemColor>
         <systemColor name="systemRedColor">
             <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
